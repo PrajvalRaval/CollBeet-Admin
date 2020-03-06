@@ -171,7 +171,7 @@ Setting up Developer Environment for CollBeet Admin is super easy, make sure you
 #### Prerequisites
 + [Meteor >=1.9](https://www.meteor.com/install)
 + [VSCode or equivalent editor](https://code.visualstudio.com/)
-+ [Git CLI](https://git-scm.com/)(For Windows only.)
++ [Git CLI](https://git-scm.com/) (For Windows only.)
 
 ---
 
